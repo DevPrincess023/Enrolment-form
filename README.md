@@ -12,9 +12,9 @@ The goal of this project was to practice building structured and accessible HTML
 
 ---
 
-📷 Preview
+📷 Watch Preview
 
-This form collects student details including personal information, preferred course selection, and additional notes in a simple and organized layout.
+
 
 
 
