@@ -34,6 +34,8 @@ This form collects student details including personal information, preferred cou
 - Form validation using the "required" attribute
 - Organized form structure using "<fieldset>" and "<legend>"
 
+
+
 ---
 
 🧠 What I Learned
@@ -53,6 +55,8 @@ While building this project, I practiced:
 - Creating dropdown menus with "<select>", "<option>", and "<optgroup>"
 - Using "<textarea>" for longer text input
 - Applying basic HTML form validation
+
+
 
 ---
 
